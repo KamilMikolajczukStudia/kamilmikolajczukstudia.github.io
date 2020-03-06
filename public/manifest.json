@@ -1,0 +1,15 @@
+{
+  "short_name": "Kamil Mikołajczuk",
+  "name": "Kamil Mikołajczuk, Budowa serwisów internetowych",
+  "icons": [
+    {
+      "src": "favicon.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#388e3c",
+  "background_color": "#fafafa"
+}
